@@ -1,0 +1,62 @@
+{
+ "generated": "2026-11-25T08:32:03.894Z",
+ "licensing": {
+  "enabled": false
+ },
+ "plugins": {
+  "m7-branding": {
+   "name": "M7 Branding",
+   "description": "M7-dashboard in wp-admin. Bevat alle M7-plugins: installeren, activeren en bijwerken vanuit het M7-menu.",
+   "requires": "6.4",
+   "requires_php": "7.4",
+   "version": "1.0.0",
+   "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-branding-1.0.0.zip",
+   "changelog": "Zie CHANGELOG.md in de M7-repository.",
+   "versions": [
+    {
+     "version": "1.0.0",
+     "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-branding-1.0.0.zip",
+     "date": "2026-11-25"
+    }
+   ],
+   "license": "free",
+   "product_ids": []
+  },
+  "m7-product-addons": {
+   "name": "M7 Product Add-Ons",
+   "description": "Extra productopties voor WooCommerce: velden, keuzes met prijs, gekoppelde producten, voorwaarden en berekeningen. Vervanger van Product Add-Ons Ultimate.",
+   "requires": "6.4",
+   "requires_php": "7.4",
+   "version": "1.0.0",
+   "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-product-addons-1.0.0.zip",
+   "changelog": "Zie CHANGELOG.md in de M7-repository.",
+   "versions": [
+    {
+     "version": "1.0.0",
+     "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-product-addons-1.0.0.zip",
+     "date": "2026-11-25"
+    }
+   ],
+   "license": "free",
+   "product_ids": []
+  },
+  "m7-smart-filters": {
+   "name": "M7 Smart Filters",
+   "description": "AJAX-filters voor berichten en WooCommerce-producten (Elementor, WooCommerce, Gutenberg). Vervanger van JetSmartFilters.",
+   "requires": "6.4",
+   "requires_php": "7.4",
+   "version": "1.0.0",
+   "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-smart-filters-1.0.0.zip",
+   "changelog": "Zie CHANGELOG.md in de M7-repository.",
+   "versions": [
+    {
+     "version": "1.0.0",
+     "download_url": "https://raw.githubusercontent.com/m7branding/m7-updates/main/m7-smart-filters-1.0.0.zip",
+     "date": "2026-11-25"
+    }
+   ],
+   "license": "free",
+   "product_ids": []
+  }
+ }
+}
